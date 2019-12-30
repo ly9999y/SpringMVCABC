@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b25ddb-bd44-4643-9691-2bd2f65841e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/.idea/artifacts/spring_mvc_base_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/controller/AnnoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/controller/ParamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/java/com/ly9999y/test/util/StringToDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/webapp/anno.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-base/src/main/webapp/param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/artifacts/spring_mvc_exception.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/spring-mvc-exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/java/com/ly9999y/test/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/java/com/ly9999y/test/exception/SysException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/java/com/ly9999y/test/exception/SysExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/webapp/WEB-INF/pages/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-exception/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/src/main/java/com/ly9999y/test/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-fileupload/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/artifacts/spring_mvc_interceptor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/java/com/ly9999y/test/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/java/com/ly9999y/test/interceptor/MyInterceptor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/java/com/ly9999y/test/interceptor/MyInterceptor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/webapp/WEB-INF/pages/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-interceptor/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/java/com/ly9999y/test/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/java/com/ly9999y/test/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-response/src/main/webapp/response.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/.idea/artifacts/ssm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/test/TestMyBatis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/ly9999y/test/test/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Program Files\Apache\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="134" />
+    <option name="width" value="1686" />
+    <option name="height" value="1744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b25ddb-bd44-4643-9691-2bd2f65841e2" name="Default Changelist" comment="" />
+      <created>1577202290594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577202290594</updated>
+      <workItem from="1577202300774" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="-6" width="1309" height="925" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24940048" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
